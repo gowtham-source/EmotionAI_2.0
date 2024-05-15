@@ -1,4 +1,4 @@
-# EmotionAI
+# EmotionAI 2.0
 
 A emotional support chatbot that uses machine learning to detect emotions and respond accordingly.
 
